@@ -4,10 +4,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokoro-hart&layout=compact&theme=transparent)](https://github.com/kokoro-hart/github-readme-stats) -->
 
 <a href="https://github.com/kokoro-hart/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=kokoro-hart&theme=transparent&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kokoro-hart&theme=transparent&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/kokoro-hart/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokoro-hart&layout=compact&theme=transparent" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokoro-hart&theme=transparent" />
 </a>
 
 <!--
