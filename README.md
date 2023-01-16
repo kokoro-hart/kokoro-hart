@@ -1,10 +1,6 @@
 ### Hi there 👋
-<a href="https://github.com/kokoro-hart/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kokoro-hart&theme=transparent&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/kokoro-hart/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokoro-hart&layout=compact&theme=transparent" />
-</a>
+
+[![kokoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=kokoro-hart)](https://github.com/kokoro-hart/github-readme-stats)
 
 <!--
 **kokoro-hart/kokoro-hart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
