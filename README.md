@@ -12,9 +12,6 @@ Frontend Engineer @ [FLAT Inc.](https://wd-flat.com/)
   <h3>Frontend</h3>
   <div><img src="https://skillicons.dev/icons?i=figma,ts,react,nextjs,vue,nuxtjs,astro,sass,tailwind,vite,threejs,xd,ps" /></div>
   
-  <h3>Backend</h3>
-  <div><img src="https://skillicons.dev/icons?i=nodejs,express" /></div>
-  
   <h3>Infrastructure</h3>
   <div><img src="https://skillicons.dev/icons?i=vercel,netlify,docker" /></div>
     
