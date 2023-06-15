@@ -1,5 +1,3 @@
-# ![Hi!](https://twemoji.maxcdn.com/v/13.0.0/72x72/1f44b.png) Hi there!  
-
 ![Age: 22](https://img.shields.io/badge/age-22-green?style=for-the-badge)
 ![Job: Frontend Engineer](https://img.shields.io/badge/work-frontend%20engineer-orange?style=for-the-badge)  
 
