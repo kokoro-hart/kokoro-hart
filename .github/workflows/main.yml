@@ -28,7 +28,7 @@ jobs:
           user: kokoro-hart
           template: classic
           base: activity
-          config_display: columns
+          config_display: large
           config_timezone: Asia/Tokyo
           plugin_achievements: yes
           plugin_achievements_display: detailed
