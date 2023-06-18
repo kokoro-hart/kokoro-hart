@@ -7,5 +7,4 @@ Frontend Engineer @ [FLAT Inc.](https://wd-flat.com/)
 ## GitHub Activities
 [![trophy](https://github-profile-trophy.vercel.app/?username=kokoro-hart&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-bg=true)](https://github.com/kokoro-hart)
 
-
 ![Metrics](/github-metrics.svg)
