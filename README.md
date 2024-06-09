@@ -2,4 +2,4 @@
 ![Job: Frontend Developer](https://img.shields.io/badge/work-frontend%20developer-orange?style=for-the-badge)  
 
 ## 📛 Positions
-Frontend Developer @ [FLAT Inc.](https://wd-flat.com/)
+Web Application Developer @ [FLAT Inc.](https://wd-flat.com/)
